@@ -21,6 +21,38 @@
 - **Rozdział 1: Wprowadzenie do rekomendacji wyborczych**
   - Teoretyczne podstawy rekomendacji wyborczych przy użyciu AI.
   - Przegląd literatury dotyczącej metod rekomendacji oraz ich zastosowań w innych dziedzinach.
+
+  Szczegóły:
+
+   - **Modele rekomendacji:**
+   
+        Omówienie różnych typów modeli rekomendacji wykorzystywanych w AI, takich jak filtrowanie kolaboratywne, filtrowanie oparte na zawartości, modele oparte na systemach rekomendacyjnych.
+
+   - **Zastosowanie AI w rekomendacjach wyborczych:**
+        
+        Analiza specyficznych wyzwań i różnic w stosowaniu technologii AI do rekomendacji politycznych. Potencjalne korzyści z ich zastosowania.
+
+   - **Techniki analizy danych:**
+   
+        Przykłady zaawansowanych technik analizy danych stosowanych w kontekście rekomendacji wyborczych, takich jak analiza sentymentu, klasyfikacja danych demograficznych, analiza trendów.
+
+   - **Bezpieczeństwo i etyka:**
+        
+        Kwestie związane z bezpieczeństwem danych i prywatnością w kontekście rekomendacji wyborczych przy użyciu AI. Kluczowe wytyczne etyczne.
+
+   - **Przykłady zastosowań:**
+   
+        Przegląd istniejących projektów lub systemów rekomendacyjnych stosowanych w polityce lub wyborach na świecie. Wyniki i wnioski z ich implementacji.
+
+   - **Znaczenie personalizacji:**
+        
+        Dlaczego personalizacja rekomendacji jest istotna w kontekście wyborów? Korzyści z dostosowania rekomendacji do indywidualnych preferencji wyborców.
+
+   - **Przegląd literatury:**
+   
+        Kluczowe badania naukowe i publikacje dotyczące rekomendacji wyborczych przy użyciu AI. Główne wnioski z badań i ich implikacje dla projektowanej pracy.
+
+
 - **Rozdział 2: Projekt i implementacja aplikacji**
   - Architektura aplikacji oraz wybór technologii.
   - Szczegółowe opisy funkcjonalności oraz interfejsu użytkownika.
