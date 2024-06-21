@@ -42,7 +42,7 @@
 
    - **Przykłady zastosowań:**
    
-        Przegląd istniejących projektów lub systemów rekomendacyjnych stosowanych w polityce lub wyborach na świecie. Wyniki i wnioski z ich implementacji.
+        Przegląd istniejących projektów lub systemów rekomendacyjnych stosowanych w polityce lub wyborach na świecie. Wyniki i wnioski z ich implementacji. (jeżeli istnieją)
 
    - **Znaczenie personalizacji:**
         
@@ -50,17 +50,18 @@
 
    - **Przegląd literatury:**
    
-        Kluczowe badania naukowe i publikacje dotyczące rekomendacji wyborczych przy użyciu AI. Główne wnioski z badań i ich implikacje dla projektowanej pracy.
+        Kluczowe badania naukowe i publikacje dotyczące rekomendacji (jeżeli istnieją, to dotyczące rekomendacji wyborczych przy użyciu AI). Główne wnioski z badań i ich implikacje dla projektowanej pracy.
 
 
 - **Rozdział 2: Projekt i implementacja aplikacji**
   - Architektura aplikacji oraz wybór technologii.
   - Szczegółowe opisy funkcjonalności oraz interfejsu użytkownika.
-- **Rozdział 3: Przeprowadzenie ankiety i analiza danych**
-  - Opis projektu ankiety i procesu zbierania danych.
-  - Analiza danych z ankiety przy użyciu zaawansowanych narzędzi analitycznych.
+- **Rozdział 3: Analiza danych**
+  - Opis projektu ankiety
+  - Opis procesu zbierania danych (opcjonalnie).
+  - Analiza danych z ankiety.
   - Interpretacja wyników i wnioskowanie.
-- **Rozdział 4: Dyskusja i wnioski**
+- **Rozdział 4: Wnioski**
   - Podsumowanie wyników badań.
   - Ocena skuteczności modelu AI w rekomendacji wyborczej.
   - Otwarte pytania i sugestie na przyszłość.
@@ -72,4 +73,4 @@
 
 # Zakończenie
 
-Praca magisterska ma na celu nie tylko zbadanie możliwości stosowania AI w rekomendacjach wyborczych, ale również dostarczenie praktycznych rezultatów w postaci funkcjonującej aplikacji. Analiza wyników ankiety i ich interpretacja są kluczowe dla oceny skuteczności proponowanego rozwiązania. Ostateczne wnioski stanowią autorskie spojrzenie na temat oraz wskazówki dla przyszłych badaczy i praktyków.
+Praca ma na celu nie tylko zbadanie możliwości stosowania AI w rekomendacjach wyborczych, ale również dostarczenie praktycznych rezultatów w postaci funkcjonującej aplikacji. Analiza wyników ankiety i ich interpretacja są kluczowe dla oceny skuteczności proponowanego rozwiązania. Ostateczne wnioski stanowią autorskie spojrzenie na temat oraz wskazówki dla przyszłych badaczy i praktyków.
