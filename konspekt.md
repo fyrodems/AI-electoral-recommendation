@@ -2,11 +2,12 @@
 
 ## 1. Wstęp
 
+- ***Roboczy tytuł:** Projekt i implementacja aplikacji generującej rekomendacje wyborcze z zastosowaniem modelu sztucznej inteligencji
 - **Uzasadnienie podjęcia tematu:** Wprowadzenie technologii sztucznej inteligencji do procesu wyborczego może przyczynić się do zwiększenia efektywności oraz personalizacji rekomendacji wyborczych.
 - **Przedmiot badań:** Automatyczna rekomendacja wyborcza przy użyciu modeli AI.
-- **Cel pracy:** Stworzenie aplikacji, która na podstawie analizy odpowiedzi z ankiety rekomenduje wyborczo odpowiedniego kandydata.
+- **Cel pracy:** Stworzenie aplikacji, która na podstawie analizy odpowiedzi z ankiety rekomenduje odpowiedniego kandydata.
 - **Hipoteza badawcza:** Możliwość skutecznego zastosowania modeli AI do rekomendacji wyborczych jest uzasadniona i może być użyteczna w praktyce.
-- **Podmiot badań:** Respondenci korzystający z aplikacji rekomendującej wybór kandydata.
+- **Podmiot badań:** Model AI rekomendujący kandydata. 
 - **Zakres czasowy:** Badania obejmują okres od przygotowania aplikacji po analizę i interpretację wyników.
 
 ## 2. Metody badawcze
@@ -57,7 +58,7 @@
   - Architektura aplikacji oraz wybór technologii.
   - Szczegółowe opisy funkcjonalności oraz interfejsu użytkownika.
 - **Rozdział 3: Analiza danych**
-  - Opis projektu ankiety
+  - Opis projektu ankiety.
   - Opis procesu zbierania danych (opcjonalnie).
   - Analiza danych z ankiety.
   - Interpretacja wyników i wnioskowanie.
