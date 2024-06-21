@@ -10,7 +10,7 @@
 - **Podmiot badań:** Model AI rekomendujący kandydata. 
 - **Zakres czasowy:** Badania obejmują okres od przygotowania aplikacji po analizę i interpretację wyników.
 
-## 2. Metody badawcze
+## 2. Metody badawcze (jeszcze do przemyślenia)
 
 - **Studium literatury:** Przegląd istniejących rozwiązań dotyczących rekomendacji przy użyciu AI oraz teoretyczne podstawy wykorzystanych metod.
 - **Projektowanie i implementacja aplikacji:** Opis architektury aplikacji, wybór technologii, opis funkcjonalności i interfejsu użytkownika.
