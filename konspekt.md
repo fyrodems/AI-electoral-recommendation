@@ -2,14 +2,15 @@
 
 ## 1. Wstęp
 
+- **Roboczy tytuł:** Projekt i implementacja aplikacji generującej rekomendacje wyborcze z zastosowaniem modelu sztucznej inteligencji
 - **Uzasadnienie podjęcia tematu:** Wprowadzenie technologii sztucznej inteligencji do procesu wyborczego może przyczynić się do zwiększenia efektywności oraz personalizacji rekomendacji wyborczych.
 - **Przedmiot badań:** Automatyczna rekomendacja wyborcza przy użyciu modeli AI.
-- **Cel pracy:** Stworzenie aplikacji, która na podstawie analizy odpowiedzi z ankiety rekomenduje wyborczo odpowiedniego kandydata.
+- **Cel pracy:** Stworzenie aplikacji, która na podstawie analizy odpowiedzi z ankiety rekomenduje odpowiedniego kandydata.
 - **Hipoteza badawcza:** Możliwość skutecznego zastosowania modeli AI do rekomendacji wyborczych jest uzasadniona i może być użyteczna w praktyce.
-- **Podmiot badań:** Respondenci korzystający z aplikacji rekomendującej wybór kandydata.
+- **Podmiot badań:** Model AI rekomendujący kandydata. 
 - **Zakres czasowy:** Badania obejmują okres od przygotowania aplikacji po analizę i interpretację wyników.
 
-## 2. Metody badawcze
+## 2. Metody badawcze (jeszcze do przemyślenia)
 
 - **Studium literatury:** Przegląd istniejących rozwiązań dotyczących rekomendacji przy użyciu AI oraz teoretyczne podstawy wykorzystanych metod.
 - **Projektowanie i implementacja aplikacji:** Opis architektury aplikacji, wybór technologii, opis funkcjonalności i interfejsu użytkownika.
@@ -42,7 +43,7 @@
 
    - **Przykłady zastosowań:**
    
-        Przegląd istniejących projektów lub systemów rekomendacyjnych stosowanych w polityce lub wyborach na świecie. Wyniki i wnioski z ich implementacji.
+        Przegląd istniejących projektów lub systemów rekomendacyjnych stosowanych w polityce lub wyborach na świecie. Wyniki i wnioski z ich implementacji. (jeżeli istnieją)
 
    - **Znaczenie personalizacji:**
         
@@ -50,17 +51,18 @@
 
    - **Przegląd literatury:**
    
-        Kluczowe badania naukowe i publikacje dotyczące rekomendacji wyborczych przy użyciu AI. Główne wnioski z badań i ich implikacje dla projektowanej pracy.
+        Kluczowe badania naukowe i publikacje dotyczące rekomendacji (jeżeli istnieją, to dotyczące rekomendacji wyborczych przy użyciu AI). Główne wnioski z badań i ich implikacje dla projektowanej pracy.
 
 
 - **Rozdział 2: Projekt i implementacja aplikacji**
   - Architektura aplikacji oraz wybór technologii.
   - Szczegółowe opisy funkcjonalności oraz interfejsu użytkownika.
-- **Rozdział 3: Przeprowadzenie ankiety i analiza danych**
-  - Opis projektu ankiety i procesu zbierania danych.
-  - Analiza danych z ankiety przy użyciu zaawansowanych narzędzi analitycznych.
+- **Rozdział 3: Analiza danych**
+  - Opis projektu ankiety.
+  - Opis procesu zbierania danych (opcjonalnie).
+  - Analiza danych z ankiety.
   - Interpretacja wyników i wnioskowanie.
-- **Rozdział 4: Dyskusja i wnioski**
+- **Rozdział 4: Wnioski**
   - Podsumowanie wyników badań.
   - Ocena skuteczności modelu AI w rekomendacji wyborczej.
   - Otwarte pytania i sugestie na przyszłość.
@@ -72,4 +74,4 @@
 
 # Zakończenie
 
-Praca magisterska ma na celu nie tylko zbadanie możliwości stosowania AI w rekomendacjach wyborczych, ale również dostarczenie praktycznych rezultatów w postaci funkcjonującej aplikacji. Analiza wyników ankiety i ich interpretacja są kluczowe dla oceny skuteczności proponowanego rozwiązania. Ostateczne wnioski stanowią autorskie spojrzenie na temat oraz wskazówki dla przyszłych badaczy i praktyków.
+Praca ma na celu nie tylko zbadanie możliwości stosowania AI w rekomendacjach wyborczych, ale również dostarczenie praktycznych rezultatów w postaci funkcjonującej aplikacji. Analiza wyników ankiety i ich interpretacja są kluczowe dla oceny skuteczności proponowanego rozwiązania. Ostateczne wnioski stanowią autorskie spojrzenie na temat oraz wskazówki dla przyszłych badaczy i praktyków.
